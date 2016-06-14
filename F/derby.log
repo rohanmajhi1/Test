@@ -1,0 +1,18 @@
+----------------------------------------------------------------
+Thu May 26 16:15:44 IST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0154-ecab-85e7-0000017ea280 
+on database directory /home/rohan/.myhelp/workspace/MyHelpDatabase with class loader org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader@dcb2b74a 
+Loaded from file:/opt/ibm/myhelp/plugins/com.ibm.myhelp.common_1.11.4/lib/derby.jar
+java.vendor=IBM Corporation
+java.runtime.version=pxi3270sr8fp10-20141219_01 (SR8 FP10)
+java.fullversion=JRE 1.7.0 IBM J9 2.6 Linux x86-32 20141216_227497 (JIT enabled, AOT enabled)
+J9VM - R26_Java726_SR8_20141216_0955_B227497
+JIT  - r11.b07_20141003_74578.05
+GC   - R26_Java726_SR8_20141216_0955_B227497
+J9CL - 20141216_227497
+user.dir=/home/rohan
+os.name=Linux
+os.arch=x86
+os.version=2.6.32-573.26.1.el6.x86_64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
